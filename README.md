@@ -1,4 +1,4 @@
-webapps-feds-unit-tests-example
+Backmine
 ===============================
 
 example of unit tests with backbone and jasmine
