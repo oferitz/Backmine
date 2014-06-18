@@ -2,7 +2,7 @@
   "name": "eXelate webapps unit tests example",
   "version": "0.0.1",
   "authors": [
-    "Ofer Itzhaki (oferi@exelate.com)"
+    "Ofer Itzhaki (ofer.webdev@gmail.com)"
   ],
   "description": "example of unit tests with backbone and jasmine",
   "keywords": [
@@ -10,7 +10,7 @@
     "webapps"
   ],
   "license": "MIT",
-  "homepage": "https://maxdmp.exelate.com",
+  "homepage": "http://skiller.io",
   "private": false,
   "ignore": [
     "**/.*",
