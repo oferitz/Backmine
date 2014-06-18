@@ -1,6 +1,6 @@
 {
-    "author": "Ofer Itzhaki (oferi@exelate.com)",
-    "name": "webapps-feds-unit-tests-example",
+    "author": "Ofer Itzhaki (ofer.webdev@gmail.com)",
+    "name": "backmine",
     "private": "false",
     "description": "example of unit tests with backbone and jasmine",
     "version": "0.0.1",
